@@ -1,1 +1,2 @@
-# feedforward
+# Simple feedforward neural network for MNIST
+uploading...
